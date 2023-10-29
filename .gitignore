@@ -1,3 +1,7 @@
-venv
-*.idea
+*.pyc
+*.toc
+.pkg
+build
 __pycache__
+*.spec
+*.idea
